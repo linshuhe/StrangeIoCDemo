@@ -2,6 +2,7 @@
 /Xproject.CSharp.Editor.csproj
 /Xproject.sln
 /Library
+/Logs
 /Temp
 /.vs
 /debug
