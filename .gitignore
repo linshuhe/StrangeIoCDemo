@@ -1,0 +1,9 @@
+/Xproject.CSharp.csproj
+/Xproject.CSharp.Editor.csproj
+/Xproject.sln
+/Library
+/Temp
+/.vs
+/debug
+/Assets/StreamingAssets
+/Assets/StreamingAssets.meta
